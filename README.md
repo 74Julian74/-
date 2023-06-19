@@ -22,6 +22,8 @@ npm start
 
 然後前往伺服器查看應用程式。
 
+![image](https://github.com/74Julian74/-/assets/130432785/47dc6116-850d-49c9-81e8-89c921539853)
+
 用以下技術構建:
 
 React-前端框架
@@ -36,13 +38,21 @@ Heroku-主機託管
 
 作者:
 Lucas Jensen - Frontend and Design - Gitub
+
 Josh Hedstrom - Frontend and Authentication - Gitub
+
 Lucas Werner - Backend - Gitub
+
 Jason Robinson - Backend and Authentication - Gitub
+
 Ben Tommerdahl - Routes - Gitub
+
 
 原Github:
 https://github.com/joshhedstrom/healthTracker
 
+UI設計頁面:
+https://www.figma.com/file/cR6HBmgX3isTCfcgeLlYw7/UI%E8%A8%AD%E8%A8%88?fuid=1216385254659286281
 
-一個健身和營養追蹤的應用程式
+結構性分析:
+https://www.figma.com/file/5fu5tJ8M2N8w5DdpfL6Snb/%E7%B5%90%E6%A7%8B%E6%80%A7%E5%88%86%E6%9E%90?type=whiteboard&node-id=0-1&t=ko4WPmspfGQK3Czi-0
